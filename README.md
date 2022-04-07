@@ -1,1 +1,2 @@
-Front Peru 2019 - vue
+Presentation link:
+https://josueaqp92.github.io/component-design-principles/
